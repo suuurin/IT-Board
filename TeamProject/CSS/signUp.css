@@ -1,0 +1,68 @@
+/* signup, login, modify, withdrawal */
+
+.signup-title{
+    text-align: center;
+    margin-top: 65px;
+  }
+
+p{
+    text-align: center;
+    margin: 20px 0 30px;
+}
+
+.signup{
+    margin: auto;
+    margin-right: 10px;
+    color: black;
+    text-decoration: none;
+}
+
+
+.signup-form {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 30px;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+}
+
+.login-form {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 50px;
+}
+
+.signup {
+    text-align: left;
+}
+
+input[type="text"], input[type="password"], input[type="tel"], input[type="email"] {
+    width: 100%;
+    padding: 15px 15px;
+    margin: 6px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 14px;
+}
+
+
+.modify, .sign {
+    width:100%;
+    padding: 15px;
+    margin-top: 20px;
+    border-radius: 14px;
+    border: 0;
+    color: rgb(255, 255, 255);
+    background-color:rgb(6, 113, 224);
+}
+
+.withdrawal-btn {
+    width:100%;
+    padding: 15px;
+    margin-top: 20px;
+    border-radius: 14px;
+    border: 0;
+    color: #383838;
+    font-size: 15;
+    background-color:rgb(211, 228, 247);
+}
