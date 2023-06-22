@@ -1,0 +1,22 @@
+/* page.jsp css */
+
+/* page.jsp 정보 여백 */
+.information {
+    margin-top: 1.5rem;
+}
+
+.small-font {
+    font-size: 12px;
+}
+.board-main-title{
+    margin-top: 10px;
+}
+
+.content {
+    font-size: 16px;
+}
+
+.board-main-content {
+    padding-bottom: 50px;
+    min-height: 400px;
+}
